@@ -27,6 +27,10 @@ namespace TgramMessage.bot_with_communication
             {
                 response = DateTime.Now.ToString();
             }
+            else if (text.StartsWith("/garantiPassword"))
+            {
+                response = "ef1215aa";
+            }
             else
             {
                 response = "undefined message, would you like to report ?";
