@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TgramMessage", "TgramMessage\TgramMessage.csproj", "{1510E2F4-D126-4E8E-9E36-5720B54DBB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1510E2F4-D126-4E8E-9E36-5720B54DBB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1510E2F4-D126-4E8E-9E36-5720B54DBB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1510E2F4-D126-4E8E-9E36-5720B54DBB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1510E2F4-D126-4E8E-9E36-5720B54DBB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E44C03-3A82-4D68-8DE3-2CEBC38D2225}
+	EndGlobalSection
+EndGlobal
