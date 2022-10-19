@@ -11,9 +11,10 @@ using Telegram.Bot;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types.Enums;
 using TgramMessage.bot_with_communication;
+using TgramMessage.Provider;
 
 #region tg token
-string apiToken = "5617450772:AAEb5b9HnAnRg8PNO69I35KTrXlFz8kBh8w"; 
+string apiToken = "xxxxxxxxxxxxxx";
 #endregion
 
 #region define tg token
